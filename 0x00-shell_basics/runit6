@@ -3,4 +3,6 @@ mkdir welcome
 cd welcome
 mkdir to
 cd to
+mkdir school
+cd school
 touch school

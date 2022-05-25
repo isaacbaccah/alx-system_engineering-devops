@@ -1,6 +1,0 @@
-#!/bin/bash
-cd
-cd ..
-cd tmp
-touch iamafile
-file /tmp/iamafile

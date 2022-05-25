@@ -1,2 +1,2 @@
 #!/bin/bash
-./runit3
+rm /tmp/my_first_directory/betty

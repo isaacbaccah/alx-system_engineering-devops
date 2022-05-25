@@ -3,4 +3,4 @@ cd
 cd ..
 cd tmp
 touch iamafile
-file iamafile
+file /tmp/iamafile

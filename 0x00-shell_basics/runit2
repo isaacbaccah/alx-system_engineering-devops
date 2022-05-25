@@ -1,0 +1,6 @@
+#!/bin/bash
+cd
+cd ..
+cd tmp
+touch betty
+mv betty my_first_directory

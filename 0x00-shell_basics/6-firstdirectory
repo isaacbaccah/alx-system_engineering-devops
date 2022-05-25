@@ -1,5 +1,2 @@
 #!/bin/bash
-cd
-cd ..
-cd tmp
-mkdir my_first_directory
+./runit

@@ -10,7 +10,7 @@ Shell Basics Tasks
 
 4 - ls -la  this is used to list directory content in long form, including hidden files
 
-5 - ls -la  this is
+5 - ls -la  this is used to display current directory contents in long format with user and group id displayed
 
 6 - mkdir /tmp/my_first_directory   this is used to creat the my_first_directory dir inside tmp directory
 
@@ -38,7 +38,17 @@ Shell Basics Tasks
 
 18 - ls -map    this is used to list all the files and directories of the current directory, separated by commas. The directory names should end with a slash, files and directories starting with a dot should be listed, etc.
 
-19 -
+19 - type vi school.mgc
+press i
+and typels
+0 string SCHOOL School data
+!:mime School
+press escape and type :wq and press enter
+type file -m school.mgc*
+type file -C -m school.mgc
+git add .
+git commit -m 'any nonsense'
+git push
 
 
 

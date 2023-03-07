@@ -15,7 +15,7 @@ printf %s "server {
     index  index.html index.htm;
 
     location /redirect_me {
-        return 301 http://cuberule.com/;
+        return 301 Moved Permanently;
     }
 }" > /etc/nginx/sites-available/default
 
